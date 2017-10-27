@@ -1,0 +1,57 @@
+body{
+	background-color: rgb(189,240,253);
+}
+.index-h1{
+	height: 80px;
+	width: 750px;
+	background-color: rgb(240,240,240);
+}
+.index-h2{
+	height: 30px;
+	width: 750px;
+	background-color: rgb(240,240,240); 
+}
+.RoyalSG-h1{
+	height: 40px;
+	width: 750px;
+	background-color: rgb(240,240,240); 
+}
+.RoyalSG-h2{
+	height: 34px;
+	width: 750px;
+	background-color: rgb(240,240,240);
+}
+.verdana{
+	font-family: "Verdana";
+}
+.arial{
+	font-family: "Arial"
+}
+.font24px{
+	font-size: 22px;
+}
+.pBackgroundColor{
+	background-color: rgb(240,240,240);
+}
+.imgOne{
+	height: 320px;
+	width: 400px;
+}
+.imgTwo{
+	height: 320px;
+	width: 400px;
+}
+.RoyalS-Big{
+	height: 700px;
+	width: 800px;
+	margin-left: 265px;
+	margin-top: 50px;
+	margin-bottom: 70px;
+}
+.RoyalG-Big{
+	height: 700px;
+	width: 800px;
+	margin-left: 265px;
+	margin-top: 50px;
+	margin-bottom: 70px;
+}

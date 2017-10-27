@@ -1,0 +1,91 @@
+body{
+	background-image: url(images/background.jpg);
+}
+h1{
+	background-color: lightgrey;
+	text-align: center;
+	font-family: "Verdana";
+	font-style: bold;
+}
+h2{
+	background-color: lightgrey;
+	text-align: center;
+	font-family: "Verdana";
+	font-style: bold;
+	font-size: 40px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+p{
+	background-color: white;
+	font-family: "Verdana";
+	font-style: bold;
+	font-size: 30px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+a{
+	color:purple;
+}
+a:visited{
+	color:rgb(63,5,63);
+}
+a:hover{
+	color: plum;
+}
+.noBackground{
+	background-color: transparent;
+}
+.center{
+	align-content: center;
+	text-align: center;
+}
+.carousel{
+	width:600px;
+	height:560px;
+	margin-left: 260px;
+}
+.italics{
+	font-style: italic;
+}
+.whiteBackground{
+	background-color: white;
+}
+.smallerFont{
+	font-size: 20px;
+}
+.floatLeft{
+	float: left;
+}
+.floatRight{
+	float: right;
+}
+.smPadding{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#ContactTable{
+	background-color: white;
+	font-family: "Verdana";
+	font-style: bold;
+	font-size: 24px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.HomePagePortrait{
+	width:50%;
+	height:10%;
+	vertical-align: center;
+
+}
+#HomePageMenu{
+	float:left;
+}
+#HomePageMenu2{
+	float:left;
+}
+#HomePagePadding{
+		padding-top: 86px;
+	padding-bottom: 86px;
+	margin-top: 80px;	
+}
